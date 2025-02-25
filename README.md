@@ -121,7 +121,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Contact
 
-For questions, feedback, or collaboration, please contact [Your Name] at [your.email@example.com].
+For questions, feedback, or collaboration, please contact me at jrfloren@ncsu.edu.
 
 ---
 
