@@ -1,0 +1,30 @@
+name: my_analysis_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - ipython
+  - jupyter
+  - tqdm
+  - h5py
+  - pytables
+  - xarray
+  - netCDF4
+  - dask
+  - numba
+  - cython
+  - pip
+  - pip:
+      - scipy
+      - openpyxl
+      - pyarrow
+      - lxml
+      - lecroyparser
